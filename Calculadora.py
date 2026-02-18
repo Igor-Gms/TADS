@@ -17,7 +17,6 @@ if opçäo == "1":
     print("Resultado da Soma: ", resultado)
     
 elif opçäo == "2":
-
     resultado = num1 - num2
     print("Resultado da Subtraçäo: ", resultado)
 
@@ -33,3 +32,4 @@ elif  opçäo == "4":
     else: print("Erro: Divisäo por Zero!")
 
 else: print("Operaçäo Inválida!")
+
