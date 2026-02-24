@@ -15,9 +15,10 @@ if imc <18.5:
 elif imc <25:
     print("Classificaçäo: Peso Normal!!")
 
-elif imc >25 <30:
+elif imc <30:
     print("Classificaçäo: Sobrepeso!!!")
 
-elif imc >=30:
+else :
     print("Classificaçäo: Obesidade!!!")
+
 
